@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <EnvironmentOptions>
+    <Version Value="106"/>
+    <AutoSave LastSavedProjectFile="E:\Doucko\Lazarus\Fyzika\project1.lpi"/>
+    <Desktop>
+      <MainIDE>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <CustomPosition Left="369" Top="70" Width="720" Height="81"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+        <Visible Value="True"/>
+      </MainIDE>
+      <SourceNotebook>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <CustomPosition Left="243" Top="212" Width="1140" Height="523"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </SourceNotebook>
+      <MessagesView>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <CustomPosition Left="160" Top="666" Width="1140" Height="80"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+        <Visible Value="True"/>
+      </MessagesView>
+      <UnitDependencies>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </UnitDependencies>
+      <CodeExplorerView>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </CodeExplorerView>
+      <LazDocEditor>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </LazDocEditor>
+      <ClipBrdHistory>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </ClipBrdHistory>
+      <PkgGraphExplorer>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </PkgGraphExplorer>
+      <ProjectInspector>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </ProjectInspector>
+      <DocumentEditor>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </DocumentEditor>
+      <DbgOutput>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </DbgOutput>
+      <BreakPoints>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </BreakPoints>
+      <Watches>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </Watches>
+      <Locals>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </Locals>
+      <CallStack>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </CallStack>
+      <EvaluateModify>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </EvaluateModify>
+      <SearchResults>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </SearchResults>
+      <AnchorEditor>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </AnchorEditor>
+      <CodeBrowser>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+      </CodeBrowser>
+      <ObjectInspectorDlg>
+        <WindowPlacement Value="RestoreWindowGeometry"/>
+        <CustomPosition Left="40" Top="86" Width="230" Height="651"/>
+        <WindowState Value="Normal"/>
+        <DockMode Value="Default"/>
+        <Visible Value="True"/>
+      </ObjectInspectorDlg>
+      <Dialogs Count="3">
+        <Dialog1>
+          <Name Value="TLazFindReplaceDialog"/>
+          <Size Width="420" Height="350"/>
+        </Dialog1>
+        <Dialog2>
+          <Name Value="TNewOtherDialog"/>
+          <Size Width="400" Height="300"/>
+        </Dialog2>
+        <Dialog3>
+          <Name Value="TViewUnitDialog"/>
+          <Size Width="0" Height="0"/>
+        </Dialog3>
+      </Dialogs>
+    </Desktop>
+    <FormEditor GuideLineColorLeftTop="16711680" GuideLineColorRightBottom="32768">
+      <Rubberband>
+        <SelectionColor Value="8388608"/>
+        <CreationColor Value="128"/>
+      </Rubberband>
+    </FormEditor>
+    <LazarusDirectory Value="E:\lazarus\">
+      <History Count="1">
+        <Item1 Value="E:\lazarus\"/>
+      </History>
+    </LazarusDirectory>
+    <CompilerFilename Value="E:\lazarus\fpc\2.2.0\bin\i386-win32\fpc.exe">
+      <History Count="2">
+        <Item1 Value="E:\lazarus\pp\bin\i386-win32\ppc386.exe"/>
+        <Item2 Value="E:\pp\bin\i386-win32\ppc386.exe"/>
+      </History>
+    </CompilerFilename>
+    <FPCSourceDirectory Value="E:\lazarus\fpc\2.2.0\source\"/>
+    <MakeFilename Value="E:\lazarus\fpc\2.2.0\bin\i386-win32\make.exe">
+      <History Count="2">
+        <Item1 Value="E:\lazarus\pp\bin\i386-win32\make.exe"/>
+        <Item2 Value="E:\pp\bin\i386-win32\make.exe"/>
+      </History>
+    </MakeFilename>
+    <TestBuildDirectory Value="C:\Users\Rolo\AppData\Local\Temp\">
+      <History Count="2">
+        <Item1 Value="E:\tmp\"/>
+        <Item2 Value="E:\windows\temp\"/>
+      </History>
+    </TestBuildDirectory>
+    <BackupProjectFiles AdditionalExtension="bak" MaxCounter="9"/>
+    <BackupOtherFiles AdditionalExtension="bak" MaxCounter="9"/>
+    <Debugger Class="TGDBMIDebugger"/>
+    <DebuggerFilename Value="E:\lazarus\mingw\bin\gdb.exe"/>
+    <Recent>
+      <OpenFiles Max="10" Count="10">
+        <Item1 Value="E:\Doucko\Lazarus\Fyzika\unit1.pas"/>
+        <Item2 Value="E:\Doucko\Lazarus\HadajCislo\unit1.pas"/>
+        <Item3 Value="E:\Doucko\Lazarus\BMI\unit1.pas"/>
+        <Item4 Value="E:\Doucko\Lazarus\Kocky\unit1.pas"/>
+        <Item5 Value="E:\Doucko\Lazarus\z1.pas"/>
+        <Item6 Value="E:\Doucko\Kocikova z krompachy\Zadanie\unit2.pas"/>
+        <Item7 Value="E:\Doucko\Kocikova z krompachy\Zadanie\unit1.pas"/>
+        <Item8 Value="E:\Doucko\Kocikova z krompachy\CV11c\korUnit.pas"/>
+        <Item9 Value="E:\Doucko\Kocikova z krompachy\CV11c\hlavna.pas"/>
+        <Item10 Value="E:\lazarus\Temp\priemer\unit2.pas"/>
+      </OpenFiles>
+      <ProjectFiles Max="5" Count="5">
+        <Item1 Value="E:\Doucko\Lazarus\Fyzika\project1.lpi"/>
+        <Item2 Value="E:\Doucko\Lazarus\HadajCislo\project1.lpi"/>
+        <Item3 Value="E:\Doucko\Lazarus\BMI\project1.lpi"/>
+        <Item4 Value="E:\Doucko\Lazarus\Kocky\project1.lpi"/>
+        <Item5 Value="E:\Doucko\Lazarus\p1.lpi"/>
+      </ProjectFiles>
+      <PackageFiles Max="10"/>
+    </Recent>
+    <ExternalTools Count="0"/>
+    <CharcaseFileAction Value="Ask"/>
+  </EnvironmentOptions>
+  <ObjectInspectorOptions>
+    <Version Value="2"/>
+    <Color GridBackground="-2147483633" DefaultValue="-2147483640" SubProperties="32768" Value="128" References="128"/>
+    <Bounds>
+      <PropertyPage SplitterX="114"/>
+    </Bounds>
+  </ObjectInspectorOptions>
+</CONFIG>
